@@ -1,0 +1,2 @@
+## Sistem de gestiune pentru agentii de turism
+Proiectul are ca scop administrarea a mai multor agenții de turism, fiecare având angajați dar si clienți care își pot cumpăra oferta de vacanta dorita. In cadrul tabelelor pe care le-am creat si vor fi evidențiate ulterior in proiect, am realizat o structura care sa tina cont de orice poate oferi o oferta de vacanta (Beneficii, Transport, Tara, Oras, Cazare), dar sa si introduc istoricul de achiziționare a fiecărui comparator.
